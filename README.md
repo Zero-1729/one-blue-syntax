@@ -1,6 +1,6 @@
 # One Blue Syntax theme
 
-A syntax highlighting theme for [Atom](https://atom.io/) based on [One Dark Syntax](https://github.com/atom/one-dark-syntax), and inspired by lucid blue dreams :shower:
+A syntax highlighting theme for [Atom](https://atom.io/) based on [One Dark Syntax](https://github.com/atom/one-dark-syntax), and inspired by blue lucid dreams :shower:
 
 ![Screenshot](./screenshot.png)
 <sub>*One Light theme*</sub>
