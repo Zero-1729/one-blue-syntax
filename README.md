@@ -3,6 +3,10 @@
 A syntax highlighting theme for [Atom](https://atom.io/) based on [One Dark Syntax](https://github.com/atom/one-dark-syntax), and inspired by lucid blue dreams :shower:
 
 ![Screenshot](./screenshot.png)
+<sub>*One Light theme*</sub>
+
+![Screenshot 1](./screenshot-alt.png)
+<sub>*One Dark theme*</sub>
 
 ---
 
