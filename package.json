@@ -1,0 +1,16 @@
+{
+    "name": "one-blue-syntax",
+    "author": "Zero-1729 <Zero1729@protonmail.com>",
+    "theme": "syntax",
+    "version": "1.0.0",
+    "description": "A syntax highlighting theme for Atom based on One Dark Syntax, and inspired by lucid blue dreams",
+    "keywords": [
+        "syntax",
+        "theme"
+    ],
+    "repository": "https://github.com/Zero-1729/one-blue-syntax",
+    "license": "MIT",
+    "engines": {
+        "atom": ">=1.0.0 <2.0.0"
+    }
+}
